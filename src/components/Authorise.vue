@@ -7,6 +7,10 @@
       Pi. Login with Spotify below and start playing some music!
     </p>
 
+    <p class=""authorise__copy>
+      Definitely the latest code dude.
+    </p>
+
     <button
       class="authorise__button button button--authorise"
       @click="initAuthorise"
